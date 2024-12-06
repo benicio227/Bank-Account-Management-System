@@ -1,0 +1,14 @@
+D:\Workspace\SistemaGestaoContaBancaria\obj\Debug\net8.0\SistemaGestaoContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\SistemaGestaoContaBancaria\obj\Debug\net8.0\SistemaGestaoContaBancaria.AssemblyInfoInputs.cache
+D:\Workspace\SistemaGestaoContaBancaria\obj\Debug\net8.0\SistemaGestaoContaBancaria.AssemblyInfo.cs
+D:\Workspace\SistemaGestaoContaBancaria\obj\Debug\net8.0\SistemaGestaoContaBancaria.csproj.CoreCompileInputs.cache
+D:\Workspace\SistemaGestaoContaBancaria\bin\Debug\net8.0\SistemaGestaoContaBancaria.exe
+D:\Workspace\SistemaGestaoContaBancaria\bin\Debug\net8.0\SistemaGestaoContaBancaria.deps.json
+D:\Workspace\SistemaGestaoContaBancaria\bin\Debug\net8.0\SistemaGestaoContaBancaria.runtimeconfig.json
+D:\Workspace\SistemaGestaoContaBancaria\bin\Debug\net8.0\SistemaGestaoContaBancaria.dll
+D:\Workspace\SistemaGestaoContaBancaria\bin\Debug\net8.0\SistemaGestaoContaBancaria.pdb
+D:\Workspace\SistemaGestaoContaBancaria\obj\Debug\net8.0\SistemaGestaoContaBancaria.dll
+D:\Workspace\SistemaGestaoContaBancaria\obj\Debug\net8.0\refint\SistemaGestaoContaBancaria.dll
+D:\Workspace\SistemaGestaoContaBancaria\obj\Debug\net8.0\SistemaGestaoContaBancaria.pdb
+D:\Workspace\SistemaGestaoContaBancaria\obj\Debug\net8.0\SistemaGestaoContaBancaria.genruntimeconfig.cache
+D:\Workspace\SistemaGestaoContaBancaria\obj\Debug\net8.0\ref\SistemaGestaoContaBancaria.dll
